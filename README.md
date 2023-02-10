@@ -47,7 +47,7 @@
     </a>
 </p>
 <h3 align="left">
-    Languages and Tools in Plans:</h3>
+    In Plans:</h3>
 <p align="left">
     <a href="https://nodejs.org" target="_blank" title="Node JS" rel="noreferrer">
         <img src="http://www.itnetwork.sk/images/10733/nodejs/nodejs_logo.png" alt="nodejs" width="60" height="60" />
