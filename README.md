@@ -10,7 +10,7 @@
 
 <h3 align="left">❤️ I’m currently in love with React ❤️</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact with me:</h3>
 <p align="left">
    📫 magda.79720@wp.pl
 </p>
