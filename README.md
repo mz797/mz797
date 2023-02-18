@@ -33,13 +33,13 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
             alt="javascript" width="60" height="60" />
     </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" title="CSS" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-            alt="css3" width="60" height="60" />
-    </a>
     <a href="https://sass-lang.com" target="_blank" title="SASS" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"
             width="60" height="60" />
+    </a>
+    <a href="https://www.w3schools.com/css/" target="_blank" title="CSS" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+            alt="css3" width="60" height="60" />
     </a>
     <a href="https://www.w3.org/html/" target="_blank" title="HTML5" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
