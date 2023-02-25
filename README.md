@@ -1,10 +1,8 @@
 
 <div style="display:flex; justify-content:space-evenly;">
-    <h1 align="center">Hi 👋, I'm Magda</h1>
-    <img align="right" width="350"
-    src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif"
-    alt="Coding">
-    </div>
+<h1 align="center">Hi 👋, I'm Magda</h1>
+<img align="right" width="350" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" alt="Coding">
+ </div>
     
 <h3 align="center">Computer science student with a passion for front-end</h3>
 
