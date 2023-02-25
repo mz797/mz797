@@ -1,4 +1,4 @@
-<h1 align="center" style="display:flex; justify-content:space-evenly;"><span></span><span>Hi 👋, I'm Magda</span>  <img src="https://komarev.com/ghpvc/?username=mz797&label=Profile%20views&color=0e75b6&style=flat&color=blueviolet"
+<h1 align="center" style="display:flex; justify-content:space-evenly; width:100%"><span></span><span>Hi 👋, I'm Magda</span>  <img src="https://komarev.com/ghpvc/?username=mz797&label=Profile%20views&color=0e75b6&style=flat&color=blueviolet"
         alt="mz797" /></h1>
 
 
