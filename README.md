@@ -1,8 +1,6 @@
-
-<div style="display:flex; justify-content:space-evenly;">
-        <h1 align="center" justify="space-between"><span></span><span>Hi 👋, I'm Magda</span>  <img src="https://komarev.com/ghpvc/?username=mz797&label=Profile%20views&color=0e75b6&style=flat&color=blueviolet"
+<h1 align="center" style="display:flex; justify-content:space-evenly;"><span></span><span>Hi 👋, I'm Magda</span>  <img src="https://komarev.com/ghpvc/?username=mz797&label=Profile%20views&color=0e75b6&style=flat&color=blueviolet"
         alt="mz797" /></h1>
-</div>
+
 
 <h3 align="center">Computer science student with a passion for front-end</h3>
 
