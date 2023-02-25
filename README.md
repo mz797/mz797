@@ -1,14 +1,13 @@
 
 <div style="display:flex; justify-content:space-evenly;">
 <h1 align="center">Hi 👋, I'm Magda</h1>
-<img align="right" width="350" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" alt="Coding">
- </div>
-    
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mz797&label=Profile%20views&color=0e75b6&style=flat&color=blueviolet"
+        alt="mz797" /> </p></div>
+
 <h3 align="center">Computer science student with a passion for front-end</h3>
 
+<img align="right" width="350" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" alt="Coding">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mz797&label=Profile%20views&color=0e75b6&style=flat&color=blueviolet"
-        alt="mz797" /> </p>
 
 <h3 align="left">❤️ I’m currently in love with React ❤️</h3>
 
