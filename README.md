@@ -47,7 +47,11 @@
 </p>
 <h3 align="left">
     In Plans:</h3>
+    
 <p align="left">
+        <a href="https://mui.com" target="_blank" title="Node JS" rel="noreferrer">
+        <img src="https://mui.com/static/logo.png" alt="MUI" width="60" height="60" />
+    </a>
     <a href="https://nodejs.org" target="_blank" title="Node JS" rel="noreferrer">
         <img src="http://www.itnetwork.sk/images/10733/nodejs/nodejs_logo.png" alt="nodejs" width="60" height="60" />
     </a>
