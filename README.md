@@ -37,11 +37,11 @@
             width="60" height="60" />
     </a>
     <a href="https://www.w3schools.com/css/" target="_blank" title="CSS" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/2048px-CSS3_logo.svg.png"
             alt="css3" width="60" height="60" />
     </a>
     <a href="https://www.w3.org/html/" target="_blank" title="HTML5" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/2048px-HTML5_Badge.svg.png"
             alt="html5" width="60" height="60" />
     </a>
 </p>
@@ -51,6 +51,10 @@
 <p align="left">
         <a href="https://mui.com" target="_blank" title="MUI" rel="noreferrer">
         <img src="https://mui.com/static/logo.png" alt="MUI" width="60" height="60" />
+    </a>
+        <a href="https://redux.js.org" target="_blank" title="Redux" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux"
+            width="60" height="60" style="background:#fff; " />
     </a>
     <a href="https://nodejs.org" target="_blank" title="Node JS" rel="noreferrer">
         <img src="http://www.itnetwork.sk/images/10733/nodejs/nodejs_logo.png" alt="nodejs" width="60" height="60" />
@@ -66,10 +70,7 @@
     <a href="https://www.mongodb.com/" target="_blank" title="Mongo DB" rel="noreferrer">
         <img src="https://www.joykal.com/wp-content/uploads/2019/09/mongodb.jpg" alt="mongodb" width="60" height="60" />
     </a>
-    <a href="https://redux.js.org" target="_blank" title="Redux" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux"
-            width="60" height="60" style="background:#fff; " />
-    </a>
+    
 
 </p>
 
