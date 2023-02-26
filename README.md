@@ -49,7 +49,7 @@
     In Plans:</h3>
     
 <p align="left">
-        <a href="https://mui.com" target="_blank" title="Node JS" rel="noreferrer">
+        <a href="https://mui.com" target="_blank" title="MUI" rel="noreferrer">
         <img src="https://mui.com/static/logo.png" alt="MUI" width="60" height="60" />
     </a>
     <a href="https://nodejs.org" target="_blank" title="Node JS" rel="noreferrer">
