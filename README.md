@@ -32,6 +32,10 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
             alt="javascript" width="60" height="60" />
     </a>
+        <a href="https://styled-components.com" target="_blank" title="Styled Components" rel="noreferrer">
+        <img src="https://styled-components.com/logo.png"
+            alt="Styled Components" width="60" height="60" />
+    </a>
     <a href="https://sass-lang.com" target="_blank" title="SASS" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"
             width="60" height="60" />
