@@ -21,6 +21,13 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
             alt="react" width="60" height="60" />
     </a>
+        <a href="https://mui.com" target="_blank" title="MUI" rel="noreferrer">
+        <img src="https://mui.com/static/logo.png" alt="MUI" width="60" height="60" />
+    </a>
+        <a href="https://redux.js.org" target="_blank" title="Redux" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux"
+            width="60" height="60" style="background:#fff; " />
+    </a>
     <a href="https://angular.io" target="_blank" title="Angular" rel="noreferrer">
         <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="60" height="60" />
     </a>
@@ -53,13 +60,6 @@
     In Plans:</h3>
     
 <p align="left">
-        <a href="https://mui.com" target="_blank" title="MUI" rel="noreferrer">
-        <img src="https://mui.com/static/logo.png" alt="MUI" width="60" height="60" />
-    </a>
-        <a href="https://redux.js.org" target="_blank" title="Redux" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux"
-            width="60" height="60" style="background:#fff; " />
-    </a>
     <a href="https://nodejs.org" target="_blank" title="Node JS" rel="noreferrer">
         <img src="http://www.itnetwork.sk/images/10733/nodejs/nodejs_logo.png" alt="nodejs" width="60" height="60" />
     </a>
