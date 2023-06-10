@@ -74,8 +74,15 @@
     <a href="https://www.mongodb.com/" target="_blank" title="Mongo DB" rel="noreferrer">
         <img src="https://www.joykal.com/wp-content/uploads/2019/09/mongodb.jpg" alt="mongodb" width="60" height="60" />
     </a>
+    <a href="https://www.python.org" target="_blank" title="Python" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="python" width="60" height="60" />
+    </a>
+    <a href="https://www.djangoproject.com" target="_blank" title="Django" rel="noreferrer">
+        <img src="https://banner2.cleanpng.com/20180711/rtc/kisspng-django-web-development-web-framework-python-softwa-django-5b45d913f29027.4888902515313042119936.jpg" alt="django" width="60" height="60" />
+    </a>
     
 
+        
 </p>
 
 <p><img align="left"
