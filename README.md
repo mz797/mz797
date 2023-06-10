@@ -78,7 +78,7 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="python" width="60" height="60" />
     </a>
     <a href="https://www.djangoproject.com" target="_blank" title="Django" rel="noreferrer">
-        <img src="https://w7.pngwing.com/pngs/159/366/png-transparent-django-python-computer-icons-logo-python-text-label-rectangle-thumbnail.png" alt="django" width="60" height="60" />
+        <img src="https://ih1.redbubble.net/image.2488768334.2177/st,small,507x507-pad,600x600,f8f8f8.jpg" alt="django" width="60" height="60" />
     </a>
     
 
