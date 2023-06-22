@@ -81,7 +81,7 @@
         <img src="https://ih1.redbubble.net/image.2488768334.2177/st,small,507x507-pad,600x600,f8f8f8.jpg" alt="django" width="60" height="60" />
     </a>
     <a href="https://tailwindcss.com" target="_blank" title="Tailwind CSS" rel="noreferrer">
-        <img src="https://avatars.githubusercontent.com/u/67109815?s=280&v=4" alt="django" width="60" height="60" />
+        <img src="https://avatars.githubusercontent.com/u/67109815?s=280&v=4" alt="Tailwind CSS" width="60" height="60" />
     </a>
     
 
