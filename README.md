@@ -55,24 +55,24 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/2048px-HTML5_Badge.svg.png"
             alt="html5" width="60" height="60" />
     </a>
+ <a href="https://nodejs.org" target="_blank" title="Node JS" rel="noreferrer">
+        <img src="http://www.itnetwork.sk/images/10733/nodejs/nodejs_logo.png" alt="nodejs" width="60" height="60" />
+    </a>
+        <a href="https://expressjs.com" target="_blank" title="Express JS" rel="noreferrer">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ18v7qjb95jfqfBueH0PMFkla_3cPQQORDPL_pkACa7Z1IpqKY-8fkvEv75YiV5cwwRXE&usqp=CAU"
+            alt="express" width="60" height="60" />
+    </a>
+        <a href="https://www.mongodb.com/" target="_blank" title="Mongo DB" rel="noreferrer">
+        <img src="https://www.joykal.com/wp-content/uploads/2019/09/mongodb.jpg" alt="mongodb" width="60" height="60" />
+    </a>
 </p>
 <h3 align="left">
     In Plans:</h3>
     
 <p align="left">
-    <a href="https://nodejs.org" target="_blank" title="Node JS" rel="noreferrer">
-        <img src="http://www.itnetwork.sk/images/10733/nodejs/nodejs_logo.png" alt="nodejs" width="60" height="60" />
-    </a>
     <a href="https://nextjs.org/" target="_blank" title="Next JS" rel="noreferrer">
         <img src="https://decodenatura.com/static/fb8aa1bb70c9925ce1ae22dc2711b343/4e9d0/nextjs-logo.png" alt="nextjs"
             width="60" height="60" />
-    </a>
-    <a href="https://expressjs.com" target="_blank" title="Express JS" rel="noreferrer">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ18v7qjb95jfqfBueH0PMFkla_3cPQQORDPL_pkACa7Z1IpqKY-8fkvEv75YiV5cwwRXE&usqp=CAU"
-            alt="express" width="60" height="60" />
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank" title="Mongo DB" rel="noreferrer">
-        <img src="https://www.joykal.com/wp-content/uploads/2019/09/mongodb.jpg" alt="mongodb" width="60" height="60" />
     </a>
     <a href="https://www.python.org" target="_blank" title="Python" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="python" width="60" height="60" />
