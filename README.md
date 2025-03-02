@@ -15,7 +15,7 @@
 </p>
 
 <h3 align="left">
-    Languages ​​and tools I worked with:</h3>
+    Languages, frameworks ​​and tools I worked with:</h3>
 <p align="left">
     <a href="https://reactjs.org/" target="_blank" title="React" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
